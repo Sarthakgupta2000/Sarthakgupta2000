@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on projects in python automation, data manipulations and visualisation, machine learning
-- 🌱 I’m currently learning python, data science, ML/AI, C++, Data structures and Algorithms, web/app dev
+- 🌱 I’m currently learning python, data science, ML/AI, Data structures and Algorithms, web/app dev
 - 👯 I’m looking to collaborate on ML projects, Hackathons
 - 📫 How to reach me: Linkedin - https://www.linkedin.com/in/sarthak-gupta2000/ , Instagram - https://www.instagram.com/_sarthak.gupta/ , Twitter - https://twitter.com/_sarthak_gupta_
 
