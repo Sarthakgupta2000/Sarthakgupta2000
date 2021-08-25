@@ -1,4 +1,4 @@
-### Hi there 👋 , Weclome to my personal Code Diary 
+### Hi there 👋 , Welcome to my personal Code Diary 
 
 <!--
 **Sarthakgupta2000/Sarthakgupta2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
